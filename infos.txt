@@ -1,0 +1,11 @@
+mongodb+srv://luciehhh:<password>@webappdenzel-unq2z.mongodb.net/test?retryWrites=true
+
+
+ MongoError: authentication fail
+    at C:\Users\lucie\Documents\ESILV\Cours\S08\Web Applications Architectures\denzel\node_modules\mongodb-core\lib\topologies\replset.js:1458:15
+    at C:\Users\lucie\Documents\ESILV\Cours\S08\Web Applications Architectures\denzel\node_modules\mongodb-core\lib\connection\pool.js:869:7
+    at C:\Users\lucie\Documents\ESILV\Cours\S08\Web Applications Architectures\denzel\node_modules\mongodb-core\lib\connection\pool.js:845:20
+    at finish (C:\Users\lucie\Documents\ESILV\Cours\S08\Web Applications Architectures\denzel\node_modules\mongodb-core\lib\auth\scram.js:233:16)
+    at handleEnd (C:\Users\lucie\Documents\ESILV\Cours\S08\Web Applications Architectures\denzel\node_modules\mongodb-core\lib\auth\scram.js:243:7)
+    at C:\Users\lucie\Documents\ESILV\Cours\S08\Web Applications Architectures\denzel\node_modules\mongodb-core\lib\auth\scram.js:352:15
+    at C:\Users\lucie\Documents\ESILV\Cours\S08\Web Applications Architectures\denzel\node_modules\mongodb-core\lib\connection\pool.js:532:18
